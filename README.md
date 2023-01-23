@@ -5,4 +5,3 @@
 Добавяє файли в Stage (Кеш гіта)
 
 git commit -m "COMMETARY"
-
